@@ -1,0 +1,89 @@
+.header_color {
+    --bs-bg-opacity: 1;
+    background-color: #75b798 !important;
+}
+.para{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+}
+.img{
+    height: 50vh;
+    width:50vh;
+}
+.body-bg{
+   background-color: #13526e;
+}
+.Hemanth{
+    background-color: transparent;
+}
+.car{
+    display: flex;
+    color:aliceblue;
+    flex-direction: column;
+    width: 31.5% !important;
+    display: inline-block !important;
+    margin-right: 20px;
+    margin-top: 20px;
+    background-color: transparent;
+    
+
+}
+.car1{
+   
+    display: flex;
+    color:aliceblue;
+    flex-direction: column;
+    width: 31.5% !important;
+    display: inline-block !important;
+    margin:auto;
+    margin-right: 20px;
+    margin-top: 20px;
+    background-color: transparent;
+}
+.car3{
+    color:aliceblue;
+    display: flex;
+    flex-direction: column;
+    width: 31.5% !important;
+    display: inline-block !important;
+    margin-right: 20px;
+    margin-top: 20px;
+    height:fit-content;
+    margin-inline: 10px !important;
+    background-color: transparent;
+
+}
+
+.para-ab{
+    text-align: center;
+    color: aliceblue;
+}
+.page-last{
+    text-align: center;
+    background-color: azure;
+    height: 50vh;
+    
+}
+.social-ig{
+    text-align: center;
+    color: aliceblue;
+
+}
+.copy-ls{
+    text-align: center;
+}
+.s1{
+    height: 5vh;
+   
+    background-color: transparent;
+
+}
+.social-f{
+    padding-top: 20px;
+    margin-inline:10px ;
+}
+
+    
+  
+
